@@ -1,0 +1,3 @@
+Logistic ROC AUC:0.7748
+Random Forest ROC AUC:0.8612
+Best RF Params: {'clf__max_depth': 10, 'clf__n_estimators': 200}
